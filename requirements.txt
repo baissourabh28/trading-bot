@@ -1,0 +1,15 @@
+# Binance Futures Trading Bot Simulation - Requirements
+# 
+# This project uses only Python standard libraries.
+# No external dependencies are required.
+# 
+# Minimum Python version: 3.11+
+#
+# Standard libraries used:
+# - random (for generating simulated data)
+# - uuid (for generating unique order IDs)
+# - datetime (for timestamps)
+# - logging (for application logging)
+# - os (for file system operations)
+# - sys (for system operations)
+# - re (for regex validation)
